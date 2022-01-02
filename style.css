@@ -95,6 +95,7 @@ html {
     color: #000000;
   }
   .title{
+      margin:0px;
       background-color: #69796c;
       text-align: center; /*Заголовок по центру*/
       font-family: 'Roboto-Thin', sans-serif;
